@@ -1,0 +1,31 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "link the redis callback url to the data",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "redis": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whishtlee/redis.git"
+  },
+  "keywords": [
+    "redis",
+    "url",
+    "data"
+  ],
+  "author": "whishtlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whishtlee/redis/issues"
+  },
+  "homepage": "https://github.com/whishtlee/redis#readme"
+}
